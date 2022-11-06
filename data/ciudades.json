@@ -1,0 +1,14 @@
+[
+    {
+        "id": 0,
+        "nombre": "Guatemala",
+        "fecha": "10/30/40",
+        "imagen": "url"
+    },
+    {
+        "id": 1,
+        "nombre": "San Salvador",
+        "fecha": "10/20/30",
+        "imagen": "url"
+    }
+]
