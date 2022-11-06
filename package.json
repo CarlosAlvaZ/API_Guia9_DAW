@@ -1,0 +1,15 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Este es solo el codigo para mostrar como se realizó la api. Esta como tal está corriendo en heroku, por lo cual no es necesario hacer ningún cambio o correr ningún script para inicializarlo.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

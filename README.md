@@ -1,0 +1,1 @@
+Este es solo el codigo para mostrar como se realizó la api. Esta como tal está corriendo en heroku, por lo cual no es necesario hacer ningún cambio o correr ningún script para inicializarlo.
